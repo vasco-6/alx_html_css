@@ -1,0 +1,52 @@
+# ALX HTML & CSS Project
+
+## Project Overview
+This repository contains the project files for the ALX HTML & CSS module.
+This project aims to demonstrate fundamental and advanced HTML and CSS concepts, including Flexbox, Grid layout, and responsive design.
+
+## Directory Structure
+
+
+## Getting Started
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+- [Git](https://git-scm.com/)
+- Web browser (e.g., Chrome, Firefox)
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/alx_html_css.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd alx_html_css
+    ```
+
+3. Open the `index.html` file in your browser to view the project:
+    ```bash
+    open css_basic/index.html
+    ```
+
+## Usage
+- The `css_basic` directory contains basic HTML and CSS files demonstrating foundational concepts.
+- The `css_advanced` directory contains more advanced CSS styling techniques.
+
+## Features
+- Responsive design using CSS Flexbox and Grid.
+- Modern and clean UI design.
+- Best practices for HTML and CSS structure.
+
+## Contributing
+Contributions are welcome! Please fork this repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- [Font Awesome](https://fontawesome.com/) for icons.
+- [Google Fonts](https://fonts.google.com/) for typography.
+- ALX for providing the curriculum and project guidelines.
+
