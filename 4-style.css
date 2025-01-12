@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(images/headphones_hero_2.jpg);
+    background-size: cover;
+    padding: 4rem;
+}
+h3{
+    text-align: center;
+    margin-bottom: 4rem;
+    font-size: 4rem;
+    color: #fff;
+}
+ h6{
+    text-align: center;
+    color: #fff;
+ }
+ .product-info h5{
+    font-size: 14px;
+ }
+
+ .product-info p{
+    color: #fff;
+ }
+.all-products{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10rem;
+
+}
+.products{
+    overflow: hidden;
+    color: #21201e;
+    text-align: center;
+    width: 240px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 1.2rem;
+    margin: 2rem;
+    transform: all 0.35;
+}
+
+.products:hover img{
+    scale: 1.1;
+}
+.product-info h5{
+    color: #fff;
+    font-size: 14px;
+    margin: 2px 5px;
+}
+.products:hover{
+    box-shadow: 5px 15px 25px #eeeeee;
+}
+.products a:link, .products a:visited{
+    color: #ececec;
+    display: inline-block;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 1.2rem 3rem;
+    border-radius: 1rem;
+    margin: 1rem;
+    transition: all 0.2s;
+}
+.products a:hover{
+    transform: scale(1.1);
+}
+

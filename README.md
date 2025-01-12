@@ -34,7 +34,7 @@ alx_html_css
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your_username>/alx_html_css.git
+   https://github.com/vasco-6/alx_html_css.git
    ```
 2. Navigate to the `headphones` directory and open `7-index.html`.
 
@@ -49,4 +49,4 @@ alx_html_css
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the ALX License.
